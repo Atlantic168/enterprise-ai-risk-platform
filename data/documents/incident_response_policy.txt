@@ -1,0 +1,16 @@
+Incident Response Policy
+
+Purpose
+This policy defines the organization's approach to identifying, responding to, and recovering from technology and security incidents.
+
+Identification
+Potential incidents should be reported promptly through approved reporting channels.
+
+Severity Assessment
+Incidents should be classified according to business impact, affected systems, data sensitivity, and potential regulatory consequences.
+
+Response
+High-severity incidents require timely escalation to the responsible management and security teams. Response actions should be documented.
+
+Post-Incident Review
+Material incidents should undergo a post-incident review to identify root causes, control weaknesses, and corrective actions.

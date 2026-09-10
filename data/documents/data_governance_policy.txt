@@ -1,0 +1,16 @@
+Data Governance Policy
+
+Purpose
+This policy defines requirements for the secure, accurate, and accountable management of organizational data.
+
+Data Quality
+Critical business data should be complete, accurate, consistent, timely, and fit for its intended purpose. Data quality checks should be performed during collection, transformation, and reporting.
+
+Data Access
+Access to sensitive data must be granted according to business need and the principle of least privilege. Access rights should be reviewed periodically.
+
+Data Lineage
+Important datasets should have documented sources, transformations, owners, and downstream uses.
+
+Data Retention
+Data must be retained only for as long as required for legitimate business, legal, or regulatory purposes.

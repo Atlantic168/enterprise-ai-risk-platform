@@ -1,0 +1,16 @@
+Model Risk Management Policy
+
+Purpose
+This policy establishes requirements for identifying, assessing, and managing risks associated with analytical and machine learning models.
+
+Model Validation
+Models used for material business decisions should undergo independent or appropriately controlled validation before deployment.
+
+Performance Testing
+Model performance should be tested using representative validation data and relevant performance metrics.
+
+Change Management
+Material model changes must be documented and reviewed before deployment.
+
+Ongoing Review
+Models should be periodically reassessed to identify performance deterioration, data drift, unexpected behavior, or other emerging risks.

@@ -1,0 +1,16 @@
+AI Governance Policy
+
+Purpose
+This policy establishes principles for the responsible development, deployment, and monitoring of artificial intelligence systems within the organization.
+
+Model Approval
+All high-impact AI systems must undergo a documented approval process before production deployment. The approval process must consider model purpose, data sources, expected users, potential risks, and applicable regulatory requirements.
+
+Model Monitoring
+Production AI systems must be monitored on an ongoing basis. Monitoring should cover model performance, data quality, significant changes in input distributions, operational failures, and other indicators of model degradation.
+
+Human Oversight
+High-impact decisions supported by AI must have appropriate human oversight. Employees must be able to review, challenge, and override AI-generated recommendations when necessary.
+
+Incident Management
+Material AI incidents must be documented, escalated, investigated, and reviewed. Corrective actions should be tracked until resolution.

@@ -1,0 +1,16 @@
+Access Control Policy
+
+Purpose
+This policy establishes controls for protecting systems and information from unauthorized access.
+
+Least Privilege
+Users and services should receive only the permissions required to perform their assigned responsibilities.
+
+Authentication
+Privileged systems must use strong authentication controls. Multi-factor authentication should be enabled where supported.
+
+Access Review
+User access to critical systems must be reviewed regularly. Unnecessary or excessive permissions must be removed promptly.
+
+Privileged Access
+Privileged activities should be logged and monitored. Shared privileged accounts should be avoided unless explicitly approved.
