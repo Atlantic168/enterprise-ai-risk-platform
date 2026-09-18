@@ -22,21 +22,29 @@ client = OpenAI(
 
 
 def generate_answer(
-    system_prompt: str,
-    user_prompt: str,
+    question: str,
+    context: list
 ) -> str:
     response = client.chat.completions.create(
         model="gpt-4o-mini",
         messages=[
             {
                 "role": "system",
-                "content": system_prompt,
+                "content": 
+                "You are an AI risk analyst assistant. "
+                "Answer questions based on provided context."
             },
             {
                 "role": "user",
-                "content": user_prompt,
+                "content": f"""
+        Question:
+        {question}
+
+        Context:
+        {context}
+        """
             },
-        ],
+        ]
     )
 
     return response.choices[0].message.content
