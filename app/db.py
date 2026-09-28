@@ -1,7 +1,15 @@
+import os
+
 import psycopg
+from dotenv import load_dotenv
 
 
-DATABASE_URL = "postgresql://localhost/enterprise_risk"
+load_dotenv()
+
+DATABASE_URL = os.getenv("DATABASE_URL")
+
+if not DATABASE_URL:
+    raise RuntimeError("DATABASE_URL is not set.")
 
 
 def get_connection():

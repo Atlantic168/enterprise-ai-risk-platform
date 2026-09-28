@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What must happen before a high-impact AI system is deployed to production?",
+    "expected_source": "ai_governance_policy.txt"
+  },
+  {
+    "question": "What should ongoing monitoring of production AI systems cover?",
+    "expected_source": "ai_governance_policy.txt"
+  },
+  {
+    "question": "When is human oversight required for AI-supported decisions?",
+    "expected_source": "ai_governance_policy.txt"
+  },
+  {
+    "question": "What qualities should critical business data have?",
+    "expected_source": "data_governance_policy.txt"
+  },
+  {
+    "question": "How should access to sensitive data be granted?",
+    "expected_source": "data_governance_policy.txt"
+  },
+  {
+    "question": "What information should be documented for important datasets?",
+    "expected_source": "data_governance_policy.txt"
+  },
+  {
+    "question": "What does the principle of least privilege mean?",
+    "expected_source": "access_control_policy.txt"
+  },
+  {
+    "question": "What authentication control should be used for privileged systems?",
+    "expected_source": "access_control_policy.txt"
+  },
+  {
+    "question": "What should happen to unnecessary or excessive permissions?",
+    "expected_source": "access_control_policy.txt"
+  },
+  {
+    "question": "How should potential technology incidents be reported?",
+    "expected_source": "incident_response_policy.txt"
+  },
+  {
+    "question": "What factors should be considered when assessing incident severity?",
+    "expected_source": "incident_response_policy.txt"
+  },
+  {
+    "question": "What is required when a high-severity incident occurs?",
+    "expected_source": "incident_response_policy.txt"
+  },
+  {
+    "question": "What validation is required before deploying models used for material business decisions?",
+    "expected_source": "model_risk_management_policy.txt"
+  },
+  {
+    "question": "How should model performance be tested?",
+    "expected_source": "model_risk_management_policy.txt"
+  },
+  {
+    "question": "What should ongoing model review identify?",
+    "expected_source": "model_risk_management_policy.txt"
+  }
+]

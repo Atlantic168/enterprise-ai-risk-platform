@@ -1,0 +1,159 @@
+{
+  "summary": {
+    "hit_at_3": 1.0,
+    "hit_count": 15,
+    "total": 15
+  },
+  "results": [
+    {
+      "question": "What must happen before a high-impact AI system is deployed to production?",
+      "expected_source": "ai_governance_policy.txt",
+      "retrieved_sources": [
+        "ai_governance_policy.txt",
+        "ai_governance_policy.txt",
+        "ai_governance_policy.txt"
+      ],
+      "hit_at_3": true
+    },
+    {
+      "question": "What should ongoing monitoring of production AI systems cover?",
+      "expected_source": "ai_governance_policy.txt",
+      "retrieved_sources": [
+        "ai_governance_policy.txt",
+        "ai_governance_policy.txt",
+        "ai_governance_policy.txt"
+      ],
+      "hit_at_3": true
+    },
+    {
+      "question": "When is human oversight required for AI-supported decisions?",
+      "expected_source": "ai_governance_policy.txt",
+      "retrieved_sources": [
+        "ai_governance_policy.txt",
+        "ai_governance_policy.txt",
+        "ai_governance_policy.txt"
+      ],
+      "hit_at_3": true
+    },
+    {
+      "question": "What qualities should critical business data have?",
+      "expected_source": "data_governance_policy.txt",
+      "retrieved_sources": [
+        "data_governance_policy.txt",
+        "data_governance_policy.txt",
+        "incident_response_policy.txt"
+      ],
+      "hit_at_3": true
+    },
+    {
+      "question": "How should access to sensitive data be granted?",
+      "expected_source": "data_governance_policy.txt",
+      "retrieved_sources": [
+        "data_governance_policy.txt",
+        "access_control_policy.txt",
+        "access_control_policy.txt"
+      ],
+      "hit_at_3": true
+    },
+    {
+      "question": "What information should be documented for important datasets?",
+      "expected_source": "data_governance_policy.txt",
+      "retrieved_sources": [
+        "data_governance_policy.txt",
+        "data_governance_policy.txt",
+        "data_governance_policy.txt"
+      ],
+      "hit_at_3": true
+    },
+    {
+      "question": "What does the principle of least privilege mean?",
+      "expected_source": "access_control_policy.txt",
+      "retrieved_sources": [
+        "access_control_policy.txt",
+        "data_governance_policy.txt",
+        "access_control_policy.txt"
+      ],
+      "hit_at_3": true
+    },
+    {
+      "question": "What authentication control should be used for privileged systems?",
+      "expected_source": "access_control_policy.txt",
+      "retrieved_sources": [
+        "access_control_policy.txt",
+        "access_control_policy.txt",
+        "access_control_policy.txt"
+      ],
+      "hit_at_3": true
+    },
+    {
+      "question": "What should happen to unnecessary or excessive permissions?",
+      "expected_source": "access_control_policy.txt",
+      "retrieved_sources": [
+        "access_control_policy.txt",
+        "access_control_policy.txt",
+        "access_control_policy.txt"
+      ],
+      "hit_at_3": true
+    },
+    {
+      "question": "How should potential technology incidents be reported?",
+      "expected_source": "incident_response_policy.txt",
+      "retrieved_sources": [
+        "incident_response_policy.txt",
+        "incident_response_policy.txt",
+        "ai_governance_policy.txt"
+      ],
+      "hit_at_3": true
+    },
+    {
+      "question": "What factors should be considered when assessing incident severity?",
+      "expected_source": "incident_response_policy.txt",
+      "retrieved_sources": [
+        "incident_response_policy.txt",
+        "incident_response_policy.txt",
+        "incident_response_policy.txt"
+      ],
+      "hit_at_3": true
+    },
+    {
+      "question": "What is required when a high-severity incident occurs?",
+      "expected_source": "incident_response_policy.txt",
+      "retrieved_sources": [
+        "incident_response_policy.txt",
+        "incident_response_policy.txt",
+        "incident_response_policy.txt"
+      ],
+      "hit_at_3": true
+    },
+    {
+      "question": "What validation is required before deploying models used for material business decisions?",
+      "expected_source": "model_risk_management_policy.txt",
+      "retrieved_sources": [
+        "model_risk_management_policy.txt",
+        "model_risk_management_policy.txt",
+        "ai_governance_policy.txt"
+      ],
+      "hit_at_3": true
+    },
+    {
+      "question": "How should model performance be tested?",
+      "expected_source": "model_risk_management_policy.txt",
+      "retrieved_sources": [
+        "model_risk_management_policy.txt",
+        "model_risk_management_policy.txt",
+        "ai_governance_policy.txt"
+      ],
+      "hit_at_3": true
+    },
+    {
+      "question": "What should ongoing model review identify?",
+      "expected_source": "model_risk_management_policy.txt",
+      "retrieved_sources": [
+        "model_risk_management_policy.txt",
+        "ai_governance_policy.txt",
+        "incident_response_policy.txt"
+      ],
+      "hit_at_3": true
+    }
+  ]
+}

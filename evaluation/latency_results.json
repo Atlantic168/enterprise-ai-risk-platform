@@ -1,0 +1,6 @@
+{
+  "num_requests": 10,
+  "average_latency_seconds": 2.611223833495751,
+  "median_latency_seconds": 2.464523625007132,
+  "p95_latency_seconds": 3.5834119524573897
+}

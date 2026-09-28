@@ -1,0 +1,69 @@
+{
+  "summary": {
+    "accuracy": 1.0,
+    "correct": 10,
+    "total": 10
+  },
+  "results": [
+    {
+      "case": 1,
+      "tool_result": 14,
+      "direct_sql_result": 14,
+      "match": true
+    },
+    {
+      "case": 2,
+      "tool_result": 15,
+      "direct_sql_result": 15,
+      "match": true
+    },
+    {
+      "case": 3,
+      "tool_result": 11,
+      "direct_sql_result": 11,
+      "match": true
+    },
+    {
+      "case": 4,
+      "tool_result": 22,
+      "direct_sql_result": 22,
+      "match": true
+    },
+    {
+      "case": 5,
+      "tool_result": 18,
+      "direct_sql_result": 18,
+      "match": true
+    },
+    {
+      "case": 6,
+      "tool_result": 19,
+      "direct_sql_result": 19,
+      "match": true
+    },
+    {
+      "case": 7,
+      "tool_result": 21,
+      "direct_sql_result": 21,
+      "match": true
+    },
+    {
+      "case": 8,
+      "tool_result": 9,
+      "direct_sql_result": 9,
+      "match": true
+    },
+    {
+      "case": 9,
+      "tool_result": 15,
+      "direct_sql_result": 15,
+      "match": true
+    },
+    {
+      "case": 10,
+      "tool_result": 17,
+      "direct_sql_result": 17,
+      "match": true
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "summary": {
+    "correct_abstentions": 5,
+    "total_questions": 5,
+    "abstention_rate": 1.0
+  },
+  "results": [
+    {
+      "question": "What is the organization's AI budget for 2027?",
+      "answer": "The provided context does not include any information regarding the organization's AI budget for 2027. Therefore, I am unable to answer your question based on the available data.",
+      "correctly_abstained": true
+    },
+    {
+      "question": "Who is the current CEO of the organization?",
+      "answer": "The provided context does not contain any information regarding the current CEO of the organization.",
+      "correctly_abstained": true
+    },
+    {
+      "question": "Which cloud provider does the organization use?",
+      "answer": "The provided context does not contain any information regarding the specific cloud provider that the organization uses. It primarily discusses policies related to data governance and incident response.",
+      "correctly_abstained": true
+    },
+    {
+      "question": "How many employees completed AI governance training last year?",
+      "answer": "The provided context does not contain information on the number of employees who completed AI governance training last year. Please provide additional information or context for a more accurate answer.",
+      "correctly_abstained": true
+    },
+    {
+      "question": "What was the total financial impact of incidents in 2025?",
+      "answer": "The provided context does not include specific financial data or details regarding incidents in 2025. Therefore, I am unable to determine the total financial impact of incidents in that year.",
+      "correctly_abstained": true
+    }
+  ]
+}
